@@ -3,7 +3,7 @@ import './App.css';
 import QRCodeGenerator from './generator';
 
 function App() {
-  const qrCodeData = 'https://lawfirm-hbq2.vercel.app/';
+  const qrCodeData = 'https://www.abisoyelaw.ca/';
   return (
     <div className="App">
       <header className="App-header">
